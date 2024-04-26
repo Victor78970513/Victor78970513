@@ -1,7 +1,7 @@
 ### Hi there, I'm Victor! 👋
 
 <div style="display: flex; flex-direction: row;">
-    <img src="https://github.com/Victor78970513/Victor78970513/assets/104875404/6c57e3c5-7642-4e37-ba8e-874e1a44719a" alt="Avatar 2" style="width: 50%;">
+    <img src="https://github.com/Victor78970513/Victor78970513/assets/104875404/6c57e3c5-7642-4e37-ba8e-874e1a44719a" alt="Avatar 2" style="width: 30%;">
     <img src="https://github.com/Victor78970513/Victor78970513/assets/104875404/69042f3d-1058-4283-9d45-9105c8eb801b" alt="Avatar" style="width: 50%;">
 </div>
 
