@@ -1,4 +1,6 @@
-### Hi there, I'm Victor! 👋 ![Profile view counter on GitHub](https://github.com/Victor78970513)
+### Hi there, I'm Victor! 👋
+
+![Visitor Count](https://profile-counter.glitch.me/Victor78970513/count.svg)
 
 <div style="display: flex; flex-direction: row;">
     <img src="https://github.com/Victor78970513/Victor78970513/assets/104875404/6c57e3c5-7642-4e37-ba8e-874e1a44719a" alt="Avatar 2" style="width: 45%;">
