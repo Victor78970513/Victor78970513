@@ -22,5 +22,5 @@ Experienced mobile developer proficient in Flutter and Dart. Passionate about cr
 <p align="center">
     <a href="https://github.com/Victor78970513" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Twitter" height="60" width="60"></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/victor-yerson/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="60" width="60"></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/Victor78970513/Victor78970513/files/15125132/Victor_Yerson_Choque_Mamani_Resume.pdf" target="_blank"><img align="center" src="https://previews.123rf.com/images/yupiramos/yupiramos1709/yupiramos170920011/86159733-lupa-con-el-curriculum-vitae-icono-aislado-dise%C3%B1o-de-ilustraci%C3%B3n-vectorial.jpg" alt="LinkedIn" height="60" width="60"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/user-attachments/files/16570965/CV_Victor_Yerson_Choque_Mamani.pdf" target="_blank"><img align="center" src="https://previews.123rf.com/images/yupiramos/yupiramos1709/yupiramos170920011/86159733-lupa-con-el-curriculum-vitae-icono-aislado-dise%C3%B1o-de-ilustraci%C3%B3n-vectorial.jpg" alt="LinkedIn" height="60" width="60"></a>&nbsp;&nbsp;&nbsp;
 </p>
